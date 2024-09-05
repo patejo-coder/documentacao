@@ -4,13 +4,13 @@
 
 ### Sumario da Documentação
 
--  [Visão geral](https://github.com/patejo-coder/documentacao/edit/main/_documentacao.md#vis%C3%A3o-geral)
+-  [Visão geral](#visao-geral)
     -  [O que é](#oque-e)
     -  [Objetivo do Projeto](#objetivo)
     -  [Imagens do Projeto](#imagens)
-    -  [Links para o Projeto](#link)
+    -  [Links para o Projeto](#link-projeto)
      
--  [Meu Processo de Criação](#processo)
+-  [Meu Processo de Criação](#meu-processo)
     -  [Tecnologias Usadas](#tecnologias)
     -  [Problemas enfrentados](#problemas)
     -  [Fontes Consultadas para Resolução do Problema](#fontes)
