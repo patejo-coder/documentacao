@@ -4,22 +4,23 @@
 
 ### Sumario da Documentação
 
-- **[Visão geral]()**
-  - [O que é]()
-  - [Objetivo do Projeto]()
-  - [Imagens do Projeto]()
-  - [Links para o Projeto]()
-   
-- **[Meu Processo de Criação]()**
-  - [Tecnologias Usadas]()
-  - [Problemas enfrentados]()
-  - [Fontes Consultadas para Resolução do Problema]()
-  - [Possiveis Melhorias]()
-    
-- **[Autor]()**
-  - [GitHub]()
-  - [Instagram]()
-  - [Email]()  
+-  [Visão geral](#visão-geral)
+    -  [O que é](#oque-e)
+    -  [Objetivo do Projeto](#objetivo)
+    -  [Imagens do Projeto](#imagens)
+    -  [Links para o Projeto](#link-projeto)
+     
+-  [Meu Processo de Criação](#meu-processo)
+    -  [Tecnologias Usadas](#tecnologias)
+    -  [Problemas enfrentados](#problemas)
+    -  [Fontes Consultadas para Resolução do Problema](#fontes-consultadas)
+    -  [Possiveis Melhorias](#melhorias)
+          
+-  [Autor](#autor)
+    -  [GitHub](#github)
+    -  [Instagram](#instagram)
+    -  [Email](#email)
+      
 <br>
 
 ## Visão Geral
@@ -48,7 +49,7 @@
 
 * ### Link para o Projeto
 
-    Github Pages:[Nome do projeto](url aqui) 
+    Github Pages: [Nome do projeto](url aqui) 
 
 <br>
 
