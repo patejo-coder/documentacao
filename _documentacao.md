@@ -4,16 +4,16 @@
 
 ### Sumario da Documentação
 
--  [Visão geral](#visão-geral)
-    -  [O que é](#oque-e)
+-  [Visão geral](#geral)
+    -  [O que é](#oque)
     -  [Objetivo do Projeto](#objetivo)
     -  [Imagens do Projeto](#imagens)
-    -  [Links para o Projeto](#link-projeto)
+    -  [Links para o Projeto](#link)
      
--  [Meu Processo de Criação](#meu-processo)
+-  [Meu Processo de Criação](#processo)
     -  [Tecnologias Usadas](#tecnologias)
     -  [Problemas enfrentados](#problemas)
-    -  [Fontes Consultadas para Resolução do Problema](#fontes-consultadas)
+    -  [Fontes Consultadas para Resolução do Problema](#fontes)
     -  [Possiveis Melhorias](#melhorias)
           
 -  [Autor](#autor)
