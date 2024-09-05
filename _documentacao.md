@@ -4,8 +4,8 @@
 
 ### Sumario da Documentação
 
--  [Visão geral](#geral)
-    -  [O que é](#oque)
+-  [Visão geral](#visao-geral)
+    -  [O que é](#oque-e)
     -  [Objetivo do Projeto](#objetivo)
     -  [Imagens do Projeto](#imagens)
     -  [Links para o Projeto](#link)
@@ -25,19 +25,19 @@
 
 ## Visão Geral
 
-* ### O que é 
+ ### O que é 
 
         (Texto Aqui)
     
 <br>
 
-* ### Objetivo do projeto
+ ### Objetivo do projeto
 
         (Texto aqui)
 
 <br>
 
-* ### Imagens do Projeto
+ ### Imagens do Projeto
 >
     ![Imagem 1](url aqui "1 Screenshot")
 >
@@ -47,7 +47,7 @@
 
 <br>
 
-* ### Link para o Projeto
+ ### Link para o Projeto
 
     Github Pages: [Nome do projeto](url aqui) 
 
@@ -60,7 +60,7 @@
 
 <br>
 
-* ### Tecnologias Usadas
+ ### Tecnologias Usadas
 <br>
 <div>
 
@@ -72,19 +72,19 @@
 </div>
 <br>
 
-* ### Problemas Enfrentados
+ ### Problemas Enfrentados
 
         (Texto aqui)
 
 <br>
 
-* ### Fontes Consultadas para Resolução de Problemas
+ ### Fontes Consultadas para Resolução de Problemas
 
         (Texto aqui)
 
 <br>
 
-* ### Possiveis Melhorias
+ ### Possiveis Melhorias
 
         (Texto aqui)
 
