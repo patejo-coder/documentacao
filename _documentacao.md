@@ -4,40 +4,37 @@
 
 ### Sumario da Documentação
 
--  [Visão geral](#visao-geral)
-    -  [O que é](#oque-e)
+-  [Visão Geral](#geral)
+    -  [O que é](#resumo)
     -  [Objetivo do Projeto](#objetivo)
     -  [Imagens do Projeto](#imagens)
-    -  [Links para o Projeto](#link-projeto)
-     
--  [Meu Processo de Criação](#meu-processo)
-    -  [Tecnologias Usadas](#tecnologias)
+    -  [Links para o Projeto](#link)
+
+-  [Meu Processo de Criação](#processo)
+    -  [Tecnologias Usadas](#tecnologias])
     -  [Problemas enfrentados](#problemas)
-    -  [Fontes Consultadas para Resolução do Problema](#fontes)
+    -  [Fontes Consultadas](#fontes)
     -  [Possiveis Melhorias](#melhorias)
-          
+
 -  [Autor](#autor)
-    -  [GitHub](#github)
-    -  [Instagram](#instagram)
-    -  [Email](#email)
       
 <br>
 
-## Visão Geral
+## Geral
 
-* ### O que é 
+* ### Resumo
 
         (Texto Aqui)
     
 <br>
 
-* ### Objetivo do projeto
+* ### Objetivo
 
         (Texto aqui)
 
 <br>
 
-* ### Imagens do Projeto
+* ### Imagens
 >
     ![Imagem 1](url aqui "1 Screenshot")
 >
@@ -47,20 +44,20 @@
 
 <br>
 
-* ### Link para o Projeto
+* ### Link
 
     Github Pages: [Nome do projeto](url aqui) 
 
 <br>
 
-## Meu Processo de Criação
+## Processo 
 <br>
 
     (Texto aqui)
 
 <br>
 
-* ### Tecnologias Usadas
+* ### Tecnologias 
 <br>
 <div>
 
@@ -72,19 +69,19 @@
 </div>
 <br>
 
-* ### Problemas Enfrentados
+* ### Problemas 
 
         (Texto aqui)
 
 <br>
 
-* ### Fontes Consultadas para Resolução de Problemas
+* ### Fontes 
 
         (Texto aqui)
 
 <br>
 
-* ### Possiveis Melhorias
+* ### Melhorias
 
         (Texto aqui)
 
