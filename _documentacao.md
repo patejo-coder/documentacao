@@ -4,7 +4,7 @@
 
 ### Sumario da Documentação
 
--  [Visão geral](#visao-geral)
+-  [Visão geral](https://github.com/patejo-coder/documentacao/edit/main/_documentacao.md#vis%C3%A3o-geral)
     -  [O que é](#oque-e)
     -  [Objetivo do Projeto](#objetivo)
     -  [Imagens do Projeto](#imagens)
@@ -25,19 +25,19 @@
 
 ## Visão Geral
 
- ### O que é 
+* ### O que é 
 
         (Texto Aqui)
     
 <br>
 
- ### Objetivo do projeto
+* ### Objetivo do projeto
 
         (Texto aqui)
 
 <br>
 
- ### Imagens do Projeto
+* ### Imagens do Projeto
 >
     ![Imagem 1](url aqui "1 Screenshot")
 >
@@ -47,7 +47,7 @@
 
 <br>
 
- ### Link para o Projeto
+* ### Link para o Projeto
 
     Github Pages: [Nome do projeto](url aqui) 
 
@@ -60,7 +60,7 @@
 
 <br>
 
- ### Tecnologias Usadas
+* ### Tecnologias Usadas
 <br>
 <div>
 
@@ -72,19 +72,19 @@
 </div>
 <br>
 
- ### Problemas Enfrentados
+* ### Problemas Enfrentados
 
         (Texto aqui)
 
 <br>
 
- ### Fontes Consultadas para Resolução de Problemas
+* ### Fontes Consultadas para Resolução de Problemas
 
         (Texto aqui)
 
 <br>
 
- ### Possiveis Melhorias
+* ### Possiveis Melhorias
 
         (Texto aqui)
 
@@ -102,6 +102,8 @@
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira501/)
+<br>
+<br>
 <br>
 <br>
 <br>
