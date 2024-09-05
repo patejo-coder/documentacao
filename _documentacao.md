@@ -4,33 +4,22 @@
 
 ### Sumario da Documentação
 
- 1. **[Visão geral]()**
-
-    - [O que é]()
-
-    - [Objetivo do Projeto]()
-
-    - [Imagens do Projeto]()
-
-    - [Links para o Projeto]()
-
-2. **[Meu Processo de Criação]()**
-
-    - [Tecnologias Usadas]()
-
-    - [Problemas enfrentados]()
-
-    - [Fontes Consultadas para Resolução do Problema]()
-
-    - [Possiveis Melhorias]()
-
-3. **[Autor]()**
-
-    - [GitHub]()
-
-    - [Instagram]()
-
-    - [Email]()  
+- **[Visão geral]()**
+  - [O que é]()
+  - [Objetivo do Projeto]()
+  - [Imagens do Projeto]()
+  - [Links para o Projeto]()
+   
+- **[Meu Processo de Criação]()**
+  - [Tecnologias Usadas]()
+  - [Problemas enfrentados]()
+  - [Fontes Consultadas para Resolução do Problema]()
+  - [Possiveis Melhorias]()
+    
+- **[Autor]()**
+  - [GitHub]()
+  - [Instagram]()
+  - [Email]()  
 <br>
 
 ## Visão Geral
