@@ -6,15 +6,15 @@
 
 -  [Visão Geral](#geral)
     -  [O que é](#resumo)
-    -  [Objetivo do Projeto](#objetivo)
-    -  [Imagens do Projeto](#imagens)
-    -  [Links para o Projeto](#link)
+    -  [Objetivo do Projeto](#objetivo-do-projeto)
+    -  [Imagens do Projeto](#imagens-do-projeto)
+    -  [Link do Projeto](#link-do-projeto)
 
--  [Meu Processo de Criação](#processo)
-    -  [Tecnologias Usadas](#tecnologias])
-    -  [Problemas enfrentados](#problemas)
-    -  [Fontes Consultadas](#fontes)
-    -  [Possiveis Melhorias](#melhorias)
+-  [Meu Processo](#meu-processo)
+    -  [Tecnologias Usadas](#tecnologias-usadas)
+    -  [Problemas Enfrentados](#problemas-enfrentados)
+    -  [Fontes Consultadas](#fontes-consultadas)
+    -  [Possiveis Melhorias](#possiveis-melhorias)
 
 -  [Autor](#autor)
       
@@ -28,13 +28,13 @@
     
 <br>
 
-* ### Objetivo
+* ### Objetivo do Projeto
 
         (Texto aqui)
 
 <br>
 
-* ### Imagens
+* ### Imagens do Projeto
 >
     ![Imagem 1](url aqui "1 Screenshot")
 >
@@ -44,20 +44,20 @@
 
 <br>
 
-* ### Link
+* ### Link do Projeto
 
     Github Pages: [Nome do projeto](url aqui) 
 
 <br>
 
-## Processo 
+## Meu Processo 
 <br>
 
     (Texto aqui)
 
 <br>
 
-* ### Tecnologias 
+* ### Tecnologias Usadas 
 <br>
 <div>
 
@@ -69,19 +69,19 @@
 </div>
 <br>
 
-* ### Problemas 
+* ### Problemas Enfrentados 
 
         (Texto aqui)
 
 <br>
 
-* ### Fontes 
+* ### Fontes Consultadas 
 
         (Texto aqui)
 
 <br>
 
-* ### Melhorias
+* ### Possiveis Melhorias
 
         (Texto aqui)
 
